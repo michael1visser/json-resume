@@ -1,0 +1,54 @@
+{
+  "name": "Michael Visser",
+  "website": "https://www.michaelpvisser.com",
+  "linkedin": "https://www.linkedin.com/in/michaelpvisser/",
+  "github": "https://github.com/michael1visser",
+  "email": "mpviss@gmail.com",
+  "aboutMe": "Naturally a detail oriented, composed, and character-driven person, my experience in a highly collaborative startup has made me comfortable with feedback, adaptable to change, and has honed my ability to learn new skills quickly.",
+  "programmingLanguages": ["HTML", "CSS", "Javascript", "React"],
+  "database": ["Mongodb", "PostgreSQL", "MySQL"],
+  "multimedia": ["GIMP (Image Manipulation)", "Final Cut Pro", "Adobe XD"],
+  "otherSkills": [
+    "Product Management",
+    "Product Documentation",
+    "Support Desk",
+    "Agile Development"
+  ],
+  "projects": [
+    {
+      "name": "Save Pompeii!",
+      "description": "A Hangman style game where users try to guess a word before lava reaches Pompeii",
+      "technologies": "HTML, CSS, Javascript"
+    },
+    {
+      "name": "Component Library",
+      "description": "A React component library.",
+      "technologies": "HTML, CSS, React"
+    },
+    {
+      "name": "Game of War",
+      "description": "Automated replica of the card game War",
+      "technologies": "Javascript"
+    }
+  ],
+  "education": [
+    {
+        "School": "General Assembly",
+        "program": "Software Emersion Intensive",
+        "degree": "Certificate of Completion",
+        "dates": "2020-06 - 2020-09"
+      },
+      {
+        "School": "General Assembly",
+        "program": "Software Emersion Intensive",
+        "degree": "Certificate of Completion",
+        "dates": "2019-04 - 2020-06"
+      },
+      {
+        "School": "Boston University",
+        "program": "Hispanic Language & Literatures",
+        "degree": "Bachelor of the Arts",
+        "dates": "2001-09 - 2005-05"
+      }
+  ]
+}
